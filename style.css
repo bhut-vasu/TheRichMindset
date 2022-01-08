@@ -3,3 +3,11 @@
     align-items: center;
     justify-content: center;
 }
+
+.font-family {
+    font-family: "Pacifico", Georgia, "Times New Roman", serif;
+}
+
+.font-family h5,p {
+    color: white;
+}
